@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Unidad-3-Bascu
 # Unidad-3-POOS-N2P1C1
 # GUÍA PRÁCTICA DE INTEGRACIÓN: DE MVC LOCAL A SERVICIOS EXTERNOS (APIs)
@@ -919,3 +920,6 @@ class MainController:
    * Elige `3.- Ver Recetas de un Paciente por RUT` e introduce el RUT.
    * Verás el historial de recetas emitidas para ese paciente con su fecha y dosis.
    * Puedes cerrar el programa y volver a abrirlo: los datos seguirán guardados gracias a SQLite.
+=======
+# motocros
+>>>>>>> e1172580c55dc1e80dbbd06a18ff7f3b27870b18
